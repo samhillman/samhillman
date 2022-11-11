@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @samhillman
-- 👀 I’m interested in Data Science internships and part-time work
-- 🌱 I’m currently learning leaflet.js and modelling wildlife space-use
-- 💞️ I’m looking to collaborate on simulating large social networks analyses
+- 👨‍💻 I'm currently working as an RWE Data Scientist at @AstraZeneca
+- 👀 I’m interested in contributing to open source projects
+- 🌱 I’m currently working on data quality assessments, data pipelines, and study reporting
+- 📝 I previously worked at the Usher Institute as an epidemiological data analyst and I am finishing my PhD on wildlife epidemiology at the University of Edinburgh
 - 📫 How to reach me: email me at sghillman@gmail.com!
 
 <!---
